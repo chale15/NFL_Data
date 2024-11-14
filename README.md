@@ -25,7 +25,6 @@ Player statistics are broken into two separate csv files, one file for Quarterba
 | INTs      | Interceptions           | Number of interceptions                     |
 | QBR       | Rating                  | Quarterback rating                          |
 | SCK       | Times Sacked            | Number of times the quarterback was sacked  |
-|-----------|--------------------------|---------------------------------------------|
 
 #### Reciever Stats
 
@@ -40,6 +39,5 @@ Player statistics are broken into two separate csv files, one file for Quarterba
 | REC_TDS   | Receiving Touchdowns     | Total receiving touchdowns                  |
 | REC_YAC   | Yards After Catch        | Receiving yards after the catch             |
 | Targets   | Targets                  | Number of times targeted                    |
-|-----------|--------------------------|---------------------------------------------|
 
 
