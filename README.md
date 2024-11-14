@@ -5,7 +5,7 @@ Code to scrape player statistics from NFL.com and resultant data
 
 Player statistics are broken into two separate csv files, one file for Quarterback Stats and one for Reciever Stats.
 
-#### Quarterback Stats
+#### Quarterback Stats -- qb_data.csv
 
 | Feature   | Expanded Feature Name   | Description                                 |
 |-----------|-------------------------|---------------------------------------------|
@@ -26,7 +26,7 @@ Player statistics are broken into two separate csv files, one file for Quarterba
 | QBR       | Rating                  | Quarterback rating                          |
 | SCK       | Times Sacked            | Number of times the quarterback was sacked  |
 
-#### Reciever Stats
+#### Reciever Stats -- wr_full.csv
 
 | Feature   | Expanded Feature Name    | Description                                 |
 |-----------|--------------------------|---------------------------------------------|
